@@ -11,4 +11,4 @@
 - 𝒍𝒖𝒗 𝒖 𝑼𝒘𝑼          
 </p>
 <p align="center">
-    <img align="center" alt="GIF" src="https://images.app.goo.gl/68MVPvs9xoXpUT9T9" />
+    <img align="center" alt="GIF" src="https://preview.redd.it/gyxaxo9ke6o71.gif?format=mp4&s=0e9c9e5e8925c10183114b5d7b6155b7942533df" />
