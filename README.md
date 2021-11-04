@@ -9,4 +9,6 @@
 - 🎨 𝒑𝒂𝒚𝒑𝒂𝒍 : congthanh28924@gmail.com
 - 𝑻𝒌𝒔 𝑭𝒐𝒓 𝑨𝒍𝒍 
 - 𝒍𝒖𝒗 𝒖 𝑼𝒘𝑼          
-ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+</p>
+<p align="center">
+    <img align="center" alt="GIF" src="https://images.app.goo.gl/68MVPvs9xoXpUT9T9" />
