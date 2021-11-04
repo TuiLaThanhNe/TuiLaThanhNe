@@ -11,4 +11,4 @@
 - 𝒍𝒖𝒗 𝒖 𝑼𝒘𝑼          
 </p>
 <p align="center">
-    <img align="center" alt="GIF" src="https://images.app.goo.gl/hXb1DSt71zotFPdU7" />
+    <img align="center" alt="GIF" src="https://www.reddit.com/r/CatGifs/comments/qig5r3/i_havent_laughed_this_hard_in_a_while/?utm_source=share&utm_medium=web2x&context=3" />
