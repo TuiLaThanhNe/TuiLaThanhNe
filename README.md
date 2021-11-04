@@ -7,8 +7,9 @@
 - 💜 𝒔𝒂𝒄𝒐𝒎𝒃𝒂𝒏𝒌 : 050116332385
 - 🧨 𝒎𝒐𝒎𝒐 : 0987664301
 - 🎨 𝒑𝒂𝒚𝒑𝒂𝒍 : congthanh28924@gmail.com
+- 
 - 𝑻𝒌𝒔 𝑭𝒐𝒓 𝑨𝒍𝒍 
-- 𝒍𝒖𝒗 𝒖 𝑼𝒘𝑼          
-</p>
+- 𝒍𝒖𝒗 𝒖 𝑼𝒘𝑼
 <p align="center">
-    <img align="center" alt="GIF" src="https://external-preview.redd.it/8l-tmRjYxfmkyD3fMN-cyF4E3lE3e2jUP5KWjswpZjE.gif?format=mp4&s=1099cf60a7280a5d07892fbb6534cef490ebcfee" />
+        <img align="center" alt="GIF" src="https://gifburg.com/images/gifs/cat/webp/0019.webp" />
+    </p>
