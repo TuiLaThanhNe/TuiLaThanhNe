@@ -11,5 +11,5 @@
 - 𝑻𝒌𝒔 𝑭𝒐𝒓 𝑨𝒍𝒍 
 - 𝒍𝒖𝒗 𝒖 𝑼𝒘𝑼
 <p align="center">
-        <img align="center" alt="GIF" src="https://gifburg.com/images/gifs/sexy/webp/0009.webp" />
+        <img align="center" alt="GIF" src="https://gifburg.com/images/gifs/cute/webp/0004.webp" />
     </p>
