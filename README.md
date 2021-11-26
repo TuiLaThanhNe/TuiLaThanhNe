@@ -23,8 +23,8 @@
   <hr>
 </div>
 <div class="">
-  <h5><strong>Shit web</strong></h5>
-  <p><em>Remake by CgT.</em></p>
+  <h5><strong>Trần Duy Công Thành</strong></h5>
+  <p><em>make by CgT.</em></p>
   <hr>
 </div>
 <div class="contact-me" id="contact-me">
@@ -37,6 +37,6 @@
   <hr>
 </div>
 <footer>
-  <a href="https://www.facebook.com/congthanh.nhism2809/">facebook của tui</a>
-  <a href="https://www.instagram.com/trdyc_thanh/">instagram ủa tui</a>
+  <a href="https://www.facebook.com/congthanh.nhism2809/">facebook của tui---------------</a>
+  <a href="https://www.instagram.com/trdyc_thanh/">---------------instagram ủa tui</a>
 </footer>
