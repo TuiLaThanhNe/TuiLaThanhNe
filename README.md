@@ -11,7 +11,7 @@
 - 💒 My countryside is Binh Phuoc (93), Vietnam and i'm studying and living in Ho Chi Minh city 
   <ul>
   <li>👋 𝑯𝒊, 𝑰’𝒎 @TuiLaThanhNe</li>
-  <li>👀 𝑴𝒚 𝑭𝑩 : <a href="https://www.facebook.com/congthanh.nhism2809/">https://www.facebook.com/congthanh.nhism2809/</a></li>
+  <li>👀 𝑴𝒚 𝑭𝑩 : <a href="https://www.facebook.com/tuilanhism/">https://www.facebook.com/tuilanhism//</a></li>
   <li>🌱 𝑴𝒚 𝑰𝑮 : trdyc_thanh</li>
   <li>🏦 I'm studying at Le Thanh Tong high school</li>
   <li>🧧 𝒅𝒐𝒏𝒂𝒕𝒆 𝒎𝒆</li>
