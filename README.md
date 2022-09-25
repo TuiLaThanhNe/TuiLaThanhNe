@@ -8,7 +8,7 @@
    
 <h2>👨🏻‍💻 About Me</h2>
    
-- 💒 My countryside is Binh Phuoc (93), Vietnam and i'm studying and living in Ho Chi Minh city 
+- 💒 My hometown is Binh Phuoc (93), Vietnam. I'm studying and living in Ho Chi Minh city 
   <ul>
   <li>👋 𝑯𝒊, 𝑰’𝒎 @TuiLaThanhNe</li>
   <li>👀 𝑴𝒚 𝑭𝑩 : <a href="https://www.facebook.com/tuilanhism/">https://www.facebook.com/tuilanhism//</a></li>
