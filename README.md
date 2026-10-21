@@ -13,11 +13,11 @@
   <li>👋 𝑯𝒊, 𝑰’𝒎 @TuiLaThanhNe</li>
   <li>👀 𝑴𝒚 𝑭𝑩 : <a href="https://www.facebook.com/tuilanhism/">https://www.facebook.com/tuilanhism//</a></li>
   <li>🌱 𝑴𝒚 𝑰𝑮 : trdyc_thanh</li>
-  <li>🏦 I'm studying at Le Thanh Tong high school</li>
+  <li>🏦 I'm studying at UHSVNU</li>
   <li>🧧 𝒅𝒐𝒏𝒂𝒕𝒆 𝒎𝒆</li>
   <li>🧨 𝒎𝒐𝒎𝒐 : 0987664301</li>
   <li>🎨 𝒑𝒂𝒚𝒑𝒂𝒍 : congthanh28924@gmail.com</li>
-  <li>💜 𝒔𝒂𝒄𝒐𝒎𝒃𝒂𝒏𝒌 : 050116332385</li>
+  <li>💜 VCB : 1032027764</li>
   <li>𝑻𝒌𝒔 𝑭𝒐𝒓 𝑨𝒍𝒍</li>
   <li>𝑼𝒘𝑼</li>
 </ul>
